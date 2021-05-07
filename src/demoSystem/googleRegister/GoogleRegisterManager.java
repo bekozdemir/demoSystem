@@ -1,4 +1,4 @@
-package googleRegister;
+package demoSystem.googleRegister;
 
 import demoSystem.entities.concretes.User;
 

@@ -1,7 +1,7 @@
 package demoSystem.core;
 
 import demoSystem.entities.concretes.User;
-import googleRegister.GoogleRegisterManager;
+import demoSystem.googleRegister.GoogleRegisterManager;
 
 public class GoogleRegisterManagerAdapter implements GoogleService {
 
